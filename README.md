@@ -8,7 +8,7 @@
 
 ### El instructor va a poder visualizar de forma individual cada carpeta, con sus respectivos commits, para depsues evaluarlos de forma individual
 
-# Estructura del aricho realizado en Trello
+# Estructura del archivo realizado en Trello
 
 ### En este documento se va a poder visualizar las capturas de pantalla. Las mismas que van a contener el proceso del paso a paso que se hizo, durante la elaboración de la evaluación TIC.
 

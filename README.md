@@ -7,3 +7,11 @@
 # Proposito especifico
 
 ### El instructor va a poder visualizar de forma individual cada carpeta, con sus respectivos commits, para depsues evaluarlos de forma individual
+
+# Rango de Commits hechos durante la evaluacion
+
+### De 10 a 15
+
+# Estructura de carpetas 
+
+### Backend y Fronted

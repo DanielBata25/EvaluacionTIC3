@@ -10,7 +10,7 @@
 
 # Rango de Commits hechos durante la evaluacion
 
-### De 10 a 15
+### De 8 a 10
 
 # Estructura de carpetas 
 

@@ -21,3 +21,7 @@
 # Estructura de carpetas 
 
 ### Backend y Fronted
+
+# Link de tablero Trello
+
+### https://trello.com/invite/b/6849da4ad12f2d1ef2dd98c6/ATTI5286406f9718045f826f6074edc01265897EB69B/evaluacon-tic
